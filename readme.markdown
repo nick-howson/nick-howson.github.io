@@ -2,6 +2,9 @@
 
 University portfolio assessment.
 
+# Credit
+https://github.com/spyn - Big ups for helping fix a []smooth scrolling issue](https://github.com/nick-howson/nick-howson.github.io/commit/de95b2a668eec4f980bdb25c3b93881e79467e14)
+
 # License
 
 Code released under the [Apache 2.0][license] license.
