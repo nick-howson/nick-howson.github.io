@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2002
+subtitle:
+image: "img/timeline/1.jpg"
+---
+Higher School Certificate from Blue Mountains Grammer School.
