@@ -16,4 +16,3 @@ Copyright 2014 Rick Kim (y7kim).
 Copyright 2015 Kirby Turner
 
 [license]: https://github.com/kirbyt/timeline-jekyll-theme/blob/master/LICENSE
-[scrollissue]: https://github.com/nick-howson/nick-howson.github.io/commit/de95b2a668eec4f980bdb25c3b93881e79467e14
