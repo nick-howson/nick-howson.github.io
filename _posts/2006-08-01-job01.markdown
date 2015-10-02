@@ -1,0 +1,7 @@
+---
+layout: null
+title: August 2006 - August 2013
+subtitle:
+image: "img/timeline/nsw_dec_logo.png"
+---
+Network Administrator with the [NSW Department of Education and Communities](http://www.dec.nsw.gov.au/) where I provided support and professional development for staff and students and acted as a liason between staff and the state information technology team

@@ -1,0 +1,7 @@
+---
+layout: null
+title: December 2013 - September 2014
+subtitle:
+image: "img/timeline/bmgs_logo.jpg"
+---
+IT Consultant at [Blue Mountains Grammar School](http://www.bmgs.nsw.edu.au/) where I conducted a multi campus site wide hardware survey, reconfigured all network devices and produced a written report to highlight potential problem areas with the schools IT infrastructure

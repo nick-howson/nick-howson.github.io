@@ -1,0 +1,7 @@
+---
+layout: null
+title: July 2013 - June 2004
+subtitle:
+image: "img/timeline/wsitafe_logo.gif"
+---
+Certificate IV in Small Business Management from [TAFE WSI](http://wsi.tafensw.edu.au/)

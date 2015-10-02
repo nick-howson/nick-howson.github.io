@@ -1,0 +1,7 @@
+---
+layout: null
+title: Feburary 2015 - Ongoing
+subtitle:
+image: "img/timeline/wsu_logo.png"
+---
+Commenced Bachelor of Nursing at [Western Sydney University](http://www.westernsydney.edu.au/)
