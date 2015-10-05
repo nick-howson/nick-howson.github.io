@@ -123,7 +123,7 @@
 
     .timeline>li .timeline-panel {
         float: left;
-        width: 41%;
+        width: 42%;
         padding: 0 20px 20px 30px;
         text-align: right;
     }
@@ -180,7 +180,7 @@
     }
 
     .timeline>li .timeline-panel {
-        padding: 0 20px 20px 100px;
+        padding: 0px 20px 20px 20px;
     }
 
     .timeline>li .timeline-image {
@@ -194,6 +194,6 @@
     }
 
     .timeline>li.timeline-inverted>.timeline-panel {
-        padding: 0 100px 20px 20px;
+        padding: 20px 20px 20px 20px;
     }
 }
