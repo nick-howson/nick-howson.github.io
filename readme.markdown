@@ -13,6 +13,7 @@ As this assessment is a professional portfolio, presentation and academic writin
 
 # Credit
 https://github.com/spyn - Big ups for helping fix a [smooth scrolling issue](https://github.com/nick-howson/nick-howson.github.io/commit/de95b2a668eec4f980bdb25c3b93881e79467e14)
+
 https://github.com/lokifer - Pointing out that shit was in alphabetical order something which I a person with 30 years on this earth failed to notice.
 ## Theme
 https://github.com/kirbyt/timeline-jekyll-theme - Timeline by Kirby Turner
