@@ -3,5 +3,12 @@ layout: null
 title: December 2013 - September 2014
 subtitle:
 image: "img/timeline/bmgs_logo.jpg"
+lightbox: bmgs
+excerpt: IT Consultant at <a href="http://www.bmgs.nsw.edu.au/">Blue Mountains Grammar School</a> where I conducted a multi campus site wide hardware survey, reconfigured all network devices and produced a written report to highlight potential problem areas with the schools IT infrastructure. I also assisted with the deployment of the schools "Bring Your Own Technology" plan and interacted with students and parents on a daily basis to troubleshoot and enable understanding of the project.
 ---
-IT Consultant at [Blue Mountains Grammar School](http://www.bmgs.nsw.edu.au/) where I conducted a multi campus site wide hardware survey, reconfigured all network devices and produced a written report to highlight potential problem areas with the schools IT infrastructure. I also assisted with the deployment of the schools "Bring Your Own Technology" plan and interacted with students and parents on a daily basis to troubleshoot and enable understanding of the project.
+## Duties
+* Conducted a site wide hardware survey for all network infrastructure, switches, access points, servers, desktops, laptops culminating in a written report to highlight potential problem areas within the schools IT infrastructure.
+* Configured 41 network switches across 3 campus locations to a new standard naming scheme and configuration in anticipation of future network expansion into segregated wireless networks for student & staff use.
+* Tidied and labeled all network equipment around the school to conform with the new naming scheme.
+* Assisted in the rollout of the schools “Bring Your Own Technology” rollout by installing virtualization software and applying changes to roughly 500 student laptops.
+* Installed and configured network management using HP Intelligent Management Center and network monitoring using [Observium](http://www.observium.org/) to allow to school to keep track of problem areas. This monitoring tool allows the school to keep a close eye on all network hardware and the schools 17 Windows based servers and 3 Linux based servers.

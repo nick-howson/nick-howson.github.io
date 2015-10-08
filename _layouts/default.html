@@ -1,9 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
-	{% include head.html %}
-
-
+{% include head.html %}
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
 	{% include navigation.html %}
@@ -53,16 +50,21 @@
                   {% endcapture %}
 
                   <li class="{{ class }}">
-                      <div class="timeline-image">
-                          <img class="img-circle img-responsive" src="{{ site.baseurl }}/{% if post.image %}{{ post.image }}{% else %}{{site.career-img}}{% endif %}" alt="">
-                      </div>
+                      <a href="#" data-featherlight="#{{ post.lightbox }}" data-featherlight-variant="fixwidth">
+						  <div class="timeline-image">
+							  <img class="img-circle img-responsive" src="{{ site.baseurl }}/{% if post.image %}{{ post.image }}{% else %}{{site.career-img}}{% endif %}" alt="">
+						  </div>
+					  </a>
                       <div class="timeline-panel">
                           <div class="timeline-heading">
                               <h4>{{ post.title }}</h4>
                               <h4 class="subheading">{{ post.subtitle }}</h4>
                           </div>
                           <div class="timeline-body">
-                              <p class="text-muted">{{ post.content }}</p>
+                              <p>{{ post.excerpt }}</p>
+                          </div>
+						  <div class="lightbox" id="{{ post.lightbox }}">
+                              {{ post.content}}
                           </div>
                       </div>
                   </li>
@@ -85,7 +87,8 @@
 
 	{% include footer.html %}
 	{% include js.html %}
-
+    <!-- Featherlight JS -->
+    <script src="{{ site.baseurl }}/js/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
 </body>
 <!--
 * g o a t s e x * g o a t s e x * g o a t s e x *

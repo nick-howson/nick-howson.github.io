@@ -3,5 +3,17 @@ layout: null
 title: July 2013 - June 2014
 subtitle:
 image: "img/timeline/wsitafe_logo.gif"
+lightbox: cert4sbm
+excerpt: Certificate IV in Small Business Management from <a href="http://wsi.tafensw.edu.au/">TAFE WSI</a>
 ---
-Certificate IV in Small Business Management from [TAFE WSI](http://wsi.tafensw.edu.au/)
+## Outline
+
+* Market the small business
+* Coordinate implementation of customer service strategies
+* Plan & manage small business finances
+* Process business tax requirements
+* Establish networks
+* Undertake small business planning
+* Manage a small team
+* Establish legal and risk management requirements of small business
+* Implement and monitor workplace health and safety policies, procedures and programs to meet legislative requirements

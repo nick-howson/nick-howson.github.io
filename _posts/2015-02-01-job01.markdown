@@ -3,5 +3,8 @@ layout: null
 title: Feburary 2015 - Ongoing
 subtitle:
 image: "img/timeline/wsu_logo.png"
+lightbox: wsuBoN
+excerpt: Commenced Bachelor of Nursing at <a href="http://www.westernsydney.edu.au/">Western Sydney University</a>
 ---
-Commenced Bachelor of Nursing at [Western Sydney University](http://www.westernsydney.edu.au/)
+## Course Outline
+The focus of the course is on inquiry-based learning, critical thinking and reflective practice in relation to the theory and practice of nursing in health and health breakdown across the lifespan. Using a primary health care framework students study application of physical and behavioural sciences to nursing; inquiry and evidence-based practice principles and utilisation within nursing; nursing care of individuals, families and groups from diverse backgrounds across the lifespan.

@@ -1,7 +1,25 @@
 ---
 layout: null
-title: Feburary 2003 - December 2004
+title: February 2003 - December 2004
 subtitle:
 image: "img/timeline/wsitafe_logo.gif"
+lightbox: diploma
+excerpt: Diploma of Information Technology (Network Engineering) from <a href="http://wsi.tafensw.edu.au/">TAFE WSI</a>
 ---
-Diploma of Information Technology (Network Engineering) from [TAFE WSI](http://wsi.tafensw.edu.au/)
+## Outline
+* Contribute to copyright, ethics and privacy in an ICT environment
+* Manage ICT projects
+* Gather data to identify business requirements
+* Match ICT needs with the strategic direction of the enterprise
+* Install and manage complex ICT networks
+* Implement server virtualisation for a sustainable ICT system
+* Produce an ICT network architecture design
+* Identify and manage the implementation of current industry specific technologies
+* Configure, verify and troubleshoot WAN links and IP services in a medium enterprise network
+* Install, operate and troubleshoot medium enterprise routers
+* Install, operate and troubleshoot medium enterprise switches
+* Install and configure network access storage devices
+* Configure an enterprise virtual computing environment
+* Manage an enterprise virtual computing environment
+* Install an enterprise virtual computing environment
+* Plan a wireless mesh network

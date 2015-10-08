@@ -3,5 +3,13 @@ layout: null
 title: January 1997 - December 2002
 subtitle:
 image: "img/timeline/mortarboard.jpg"
+lightbox: hsc
+excerpt: Higher School Certificate
 ---
-Higher School Certificate
+## Subjects
+* English Standard
+* 2 Unit Maths
+* Ancient History
+* Physics
+* Chemistry
+* Information Processes and Technology
