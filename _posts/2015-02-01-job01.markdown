@@ -1,6 +1,6 @@
 ---
 layout: null
-title: Feburary 2015 - Ongoing
+title: February 2015 - Ongoing
 subtitle:
 image: "img/timeline/wsu_logo.png"
 lightbox: wsuBoN
