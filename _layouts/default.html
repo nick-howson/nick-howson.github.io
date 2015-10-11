@@ -50,11 +50,11 @@
                   {% endcapture %}
 
                   <li class="{{ class }}">
-                      <a href="#" data-featherlight="#{{ post.lightbox }}" data-featherlight-variant="fixwidth">
+                      <!--<a href="#" data-featherlight="#{{ post.lightbox }}" data-featherlight-variant="fixwidth">-->
 						  <div class="timeline-image">
 							  <img class="img-circle img-responsive" src="{{ site.baseurl }}/{% if post.image %}{{ post.image }}{% else %}{{site.career-img}}{% endif %}" alt="">
 						  </div>
-					  </a>
+					  <!--</a>-->
                       <div class="timeline-panel">
                           <div class="timeline-heading">
                               <h4>{{ post.title }}</h4>
@@ -90,31 +90,4 @@
     <!-- Featherlight JS -->
     <script src="{{ site.baseurl }}/js/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
 </body>
-<!--
-* g o a t s e x * g o a t s e x * g o a t s e x *
-g                                               g
-o /     \             \            /    \       o
-a|       |             \          |      |      a
-t|       `.             |         |       :     t
-s`        |             |        \|       |     s
-e \       | /       /  \\\   --__ \\       :    e
-x  \      \/   _--~~          ~--__| \     |    x
-*   \      \_-~                    ~-_\    |    *
-g    \_     \        _.--------.______\|   |    g
-o      \     \______// _ ___ _ (_(__>  \   |    o
-a       \   .  C ___)  ______ (_(____>  |  /    a
-t       /\ |   C ____)/      \ (_____>  |_/     t
-s      / /\|   C_____)       |  (___>   /  \    s
-e     |   (   _C_____)\______/  // _/ /     \   e
-x     |    \  |__   \\_________// (__/       |  x
-*    | \    \____)   `----   --'             |  *
-g    |  \_          ___\       /_          _/ | g
-o   |              /    |     |  \            | o
-a   |             |    /       \  \           | a
-t   |          / /    |         |  \           |t
-s   |         / /      \__/\___/    |          |s
-e  |           /        |    |       |         |e
-x  |          |         |    |       |         |x
-* g o a t s e x * g o a t s e x * g o a t s e x *
--->
 </html>
