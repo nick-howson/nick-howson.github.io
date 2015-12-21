@@ -9,7 +9,7 @@
 		background: rgba(256,256,256, 0.8);
 	}
 	.fixwidth .featherlight-content {
-		width: 50pc;
+		width: 50%;
 		max-width: 900px;
 		padding: 25px;
 		color: #fff;
