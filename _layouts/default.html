@@ -50,11 +50,11 @@
                   {% endcapture %}
 
                   <li class="{{ class }}">
-                      <!--<a href="#" data-featherlight="#{{ post.lightbox }}" data-featherlight-variant="fixwidth">-->
+                      <a href="#" data-featherlight="#{{ post.lightbox }}" data-featherlight-variant="fixwidth">
 						  <div class="timeline-image">
 							  <img class="img-circle img-responsive" src="{{ site.baseurl }}/{% if post.image %}{{ post.image }}{% else %}{{site.career-img}}{% endif %}" alt="">
 						  </div>
-					  <!--</a>-->
+					  </a>
                       <div class="timeline-panel">
                           <div class="timeline-heading">
                               <h4>{{ post.title }}</h4>
