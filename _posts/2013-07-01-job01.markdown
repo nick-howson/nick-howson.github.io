@@ -6,7 +6,7 @@ image: "img/timeline/wsitafe_logo.gif"
 lightbox: cert4sbm
 excerpt: Certificate IV in Small Business Management from <a href="http://wsi.tafensw.edu.au/">TAFE WSI</a>
 ---
-## Outline
+## Course Outline
 
 * Market the small business
 * Coordinate implementation of customer service strategies
