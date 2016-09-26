@@ -1,0 +1,10 @@
+---
+layout: null
+title: September 2016 - Ongoing
+subtitle:
+image: "img/timeline/nsw_health_logo.png"
+lightbox: AINRole
+excerpt: Undergraduate Assistant in Nursing - Mental Health with <a href="https://www.wslhd.health.nsw.gov.au/">Western Sydney Local Health District</a>
+---
+## Job Outline
+Provision of safe and effective patient care in Mental Health Units of Western Sydney Local Health District.
